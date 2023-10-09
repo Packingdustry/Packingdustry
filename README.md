@@ -1,6 +1,15 @@
-# Packingdustry
-- Nancy, France 🇫🇷 🏴‍☠️
+# Packingdustry 🏴‍☠️
+- Nancy, France 🇫🇷 
 - Actuellement en 1<sup>ère</sup> année de BUT informatique
+
+### Langages : 
+- Python 🐍
+- PHP 🐘
+- HTML/CSS/JS
+- Java ☕
+- SQL
+- C
+
 <!--
 **Packingdustry/Packingdustry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
