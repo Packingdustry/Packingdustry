@@ -1,4 +1,4 @@
-# Packingdustry 🏴‍☠️
+# Packingdustry
 - Nancy, France 🇫🇷 
 - Actuellement en 1<sup>ère</sup> année de BUT informatique
 
