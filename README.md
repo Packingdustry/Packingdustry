@@ -2,7 +2,8 @@
 - Nancy <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Flag_of_Lorraine.svg" width="18px">, France 🇫🇷 
 - Actuellement en 1<sup>ère</sup> année de BUT informatique
 
-![Les Stats GitHub de Packingdustry](https://github-readme-stats.vercel.app/api?username=Packingdustry&show_icons=true&hide=prs,issues&theme=vue-dark)
+![Les Stats GitHub de Packingdustry](https://github-readme-stats.vercel.app/api?username=Packingdustry&show_icons=true&hide=prs,issues)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Packingdustry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Langages : 
 - Python 🐍
